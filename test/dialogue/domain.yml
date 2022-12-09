@@ -1,0 +1,228 @@
+%YAML 1.1
+---
+actions:
+- utter_greet
+- utter_cheer_up
+- utter_did_that_help
+- utter_happy
+- utter_goodbye
+- utter_iamabot
+- utter_scholar
+- utter_summer
+- utter_events
+- utter_schedule
+- utter_job
+- utter_gannonuni
+- utter_sample
+- utter_recruit
+- utter_summer_courses
+- utter_admins
+- utter_nts
+- utter_nat
+- utter_graduate
+- utter_tests
+- utter_apply
+- utter_fee
+- utter_programs
+- utter_hostel
+- utter_pattern
+- utter_negative
+- utter_evening
+- utter_sports
+- utter_self
+- utter_domicile
+- utter_aggregate
+- utter_period
+- utter_Warning
+- utter_fyp
+- utter_Transfer
+- utter_gpaw
+- utter_gpai
+- utter_gpa
+- utter_credit
+- utter_class
+- utter_former
+- utter_awaited
+- utter_semester
+- utter_campus
+- utter_sum
+- utter_new
+- utter_improve
+- utter_freezing
+- utter_Rechecking
+- utter_degree
+- utter_spring
+- utter_withdraw
+- utter_medal
+- utter_career
+- utter_deen
+- utter_headquarter
+- utter_lhr
+- utter_khi
+- utter_pesh
+- utter_fsd
+- utter_library
+- utter_cafeteria
+- utter_mosque
+- utter_auditorium
+- utter_bestcampus
+- utter_academic
+- utter_admin
+- utter_students
+- utter_hod
+- utter_director
+- utter_contacts
+- utter_isb
+config:
+  store_entities_as_slots: true
+entities: []
+forms: []
+intents:
+- greet:
+    use_entities: true
+- goodbye:
+    use_entities: true
+- affirm:
+    use_entities: true
+- deny:
+    use_entities: true
+- mood_great:
+    use_entities: true
+- mood_unhappy:
+    use_entities: true
+- bot_challenge:
+    use_entities: true
+- scholarship:
+    use_entities: true
+- summer_warning:
+    use_entities: true
+- admission_schedule:
+    use_entities: true
+- past_papers:
+    use_entities: true
+- admission:
+    use_entities: true
+- admission2:
+    use_entities: true
+- NTS:
+    use_entities: true
+- gannon:
+    use_entities: true
+- job_rate:
+    use_entities: true
+- NAT:
+    use_entities: true
+- social_events:
+    use_entities: true
+- tests_conducted:
+    use_entities: true
+- apply:
+    use_entities: true
+- fee_structure:
+    use_entities: true
+- offered_programs:
+    use_entities: true
+- hostel:
+    use_entities: true
+- test_pattern:
+    use_entities: true
+- negative_marking:
+    use_entities: true
+- evening_classes:
+    use_entities: true
+- sports_seats:
+    use_entities: true
+- self_finance:
+    use_entities: true
+- domicile:
+    use_entities: true
+- aggregate:
+    use_entities: true
+- academic_period:
+    use_entities: true
+- Warning:
+    use_entities: true
+- Fyp_Registration:
+    use_entities: true
+- Transfer:
+    use_entities: true
+- GPA_W:
+    use_entities: true
+- GPA_I:
+    use_entities: true
+- GPA:
+    use_entities: true
+- credit_hour:
+    use_entities: true
+- classes:
+    use_entities: true
+- Admission_of_former:
+    use_entities: true
+- awaited_admission:
+    use_entities: true
+- semester_week:
+    use_entities: true
+- summer_campus:
+    use_entities: true
+- summer_withdraw:
+    use_entities: true
+- new_summer:
+    use_entities: true
+- improve_gpa:
+    use_entities: true
+- freezing_semester:
+    use_entities: true
+- Rechecking_paper:
+    use_entities: true
+- degree_duration:
+    use_entities: true
+- spring_admission:
+    use_entities: true
+- withdraw_course:
+    use_entities: true
+- medals:
+    use_entities: true
+- out_of_scope:
+    use_entities: true
+- summer_courses:
+    use_entities: true
+- career_office:
+    use_entities: true
+- deen:
+    use_entities: true
+- headquarter:
+    use_entities: true
+- gannon_lhr_address:
+    use_entities: true
+- gannon_khi_address:
+    use_entities: true
+- gannon_fsd_address:
+    use_entities: true
+- library:
+    use_entities: true
+- cafeteria:
+    use_entities: true
+- mosque:
+    use_entities: true
+- auditorium:
+    use_entities: true
+- best_campus:
+    use_entities: true
+- academic_office:
+    use_entities: true
+- admin_office:
+    use_entities: true
+- students_affair:
+    use_entities: true
+- hod_office:
+    use_entities: true
+- director_office:
+    use_entities: true
+- contacts:
+    use_entities: true
+- gannon_isb_address:
+    use_entities: true
+- graduation:
+    use_entities: true
+slots: {}
+templates: {}

@@ -1,0 +1,670 @@
+## intent:greet
+- hey
+- hello
+- hi
+- good morning
+- good evening
+- hey there
+- hi bot
+- hi Gannon
+- hy Gannon bot
+- hi Gannon bot
+
+## intent:goodbye
+- bye
+- goodbye
+- see you around
+- see you later
+
+## intent:affirm
+- yes
+- indeed
+- of course
+- that sounds good
+- correct
+- alright then
+- sounds good
+- great
+- yeah
+- yup
+- sure do
+- I dure do
+- I do
+- I agree
+
+## intent:deny
+- no
+- never
+- I don't think so
+- don't like that
+- no way
+- not really
+- I disagree
+- I don't
+- nah
+- nope
+
+## intent:mood_great
+- perfect
+- very good
+- great
+- amazing
+- wonderful
+- I am feeling very good
+- I am great
+- I'm good
+
+## intent:mood_unhappy
+- sad
+- very sad
+- unhappy
+- bad
+- very bad
+- awful
+- terrible
+- not very good
+- extremely sad
+- so sad
+
+## intent:bot_challenge
+- are you a bot?
+- are you a human?
+- am I talking to a bot?
+- am I talking to a human?
+- who are you?
+- what is your name?
+- what are you?
+
+## intent:scholarship
+- how can i get scholarship?
+- criteria for scholarship
+- scholarship
+- financial aid
+- Can anyone guide me about scholarship...?
+- I need information about the scholarship procedure.
+- I need guidance through the procedure of scholarship application ?
+- I need guidance for the application of scholarship.
+- What is the process of scholarship application ?
+- I need information of the procedure of application of scholarship ?
+- what is the process of scholarship?
+- how can I get scholarship?
+- what is the process of financial aid?
+- how can I get financial aid?
+- what is the process of need based scholarship
+- what about study loan
+- how can I get study loan
+- how can I apply for study loan
+- how can I apply for financial aid
+- where can I apply for financial aid?
+- where can I apply for scholarship?
+
+## intent:transportation
+- does trasportation available at gannon?
+- does settle sevice available at gannon?
+- settle service at gannon university
+- n
+
+## intent:summer
+- how many courses can we register in summer semester?
+- how many courses can we register in summer?
+- how many courses can we opt in summer semester?
+- course limit in summer?
+- courses in summer
+
+## intent:Gannon
+- why Gannon?
+- is Gannon number 1 university?
+- why should i choose Gannon university?
+- why Gannon is good for me?
+- why should i apply at Gannon university?
+- why Gannon university?
+
+## intent:job_rate
+- job rate at Gannon
+- what is job rate of Gannon
+- what is job rate at Gannon
+- job rate
+- job rate Gannon
+- job rate at Gannon university
+- job rate at Gannon nu
+- what is job rate at Gannon university
+- cis programs
+
+## intent:admission_schedule
+- deadline for admission forms?
+- admissions deadline?
+- last date to apply?
+- admission dates?
+- schedule for admission dates?
+- when can i apply for admission at Gannon ?
+- dates for apply?
+- dates for admission?
+- dates of application submission?
+- When can we apply for CiS ?
+- What is the schedule with respect to the application of CiS ?
+- When will the application of CiS take place ?
+- What are the dates to apply for CS ?
+- What are the dates regarding the application of admission ?
+- What is last date of  admission?
+- when result will be announced for admission?
+
+## intent:research_papers
+- where can I get sample test papers
+- sample research papers
+- research papers
+- Do anyone have online material for the prepration of Gannon admission test or anylink plz let me know if anyone have??
+- I need online preparation material for the Gannon admission test.
+- Where would I be able to get a hold of the research paper of Gannon university entry test ?
+- What is syllabus of entry test As I am an A level student
+- What is the syllabus of entry test for an A levels student ?
+- What would the syllabus of entry test be for a student who has cleared A levels ?
+- I need information about the syllabus of entry test as I am an A levels student.
+- I have cleared my A levels, what would the syllabus of entry test be for me ?
+- What syllabus to I have to go through for entry test being a student of A levels ?
+- How can a person prepare for the Gannon entry?
+- What are the ways to prepare for the Gannon entry test?
+- Does anyone know how to prepare for entry test of Gannon university?
+- where can we get research papers of Gannon university ?
+- Where are the research paper of Gannon university available ?
+- Where will I be able to get research papers of Gannon university from ?
+- Is there anyway I could find the research papers of Gannon university ?
+- Where would I be able to get a hold of the research paper of Gannon university
+
+## intent:tests
+- Which test is required to be taken in order to get an admission in Gannon?
+- which test is conducted to get admission in Gannon university?
+- Which test is necessary to attain admission in Gannon university ?
+- Which is the essential test for admission in Gannon university ?
+- Which test does Gannon university conduct for its admissions ?
+
+## intent:apply
+- How can the students  apply ?
+- What are the ways through which the students can apply ?
+- Is there anyway through which the students of can apply ?
+- What is the procedure for the students  to apply ?
+- What is the process of applying for cis ?
+- I need information on how to apply along with the online admission website.
+- I need the website for applying and I also want to know what the process of application is ?
+- What is the procedure of applying and from which website do we have to apply ?
+- On which website does the application take place and what is its procedure ?
+- How should I apply and please tell me the website from which I should apply?
+- how can we get admission in gcis?
+- What is the procedure to get an admission in Gannon university ?
+- What is the process of attaining an admission in Gannon university ?
+- How can I attain an admission in Gannon university ?
+- I need guidance towards the attainment of admission in Gannon university?
+- I need information on how to get an admission in Gannon university.
+- What is the information regarding admission in Masters degree ?
+- What are the details of getting an admission in Masters ?
+- What are the updates with regards to the attainment of admission in Masters ?
+- Is there any information available about getting admission in Masters ?
+- How will a student attain admission in Masters ?
+- When to apply for tests and Form Fee?
+- When should I apply for tests and what is the required amount of form fees ?
+- How much amount is required for form fees and when can one apply for tests ?
+- I need information on the application of tests and the amount of form fees.
+- I need details with regard to the date of application?
+- What are the date of application of tests and how much is the amount of form fees ?
+- what is the admission process?
+- how can I apply for admission?
+
+## intent:fee
+- what is the admission fees?
+- what is the fee structure
+- what is the tuition fee
+- I need information of the token fees of Gannon university ?
+- how much token fees will we have to pay in Gannon university ?
+- What amount is essential for the payment of token fees in Gannon university ?
+- How much amount is paid for the token fees in Gannon university ?
+- I need information on the amount required to be paid as token fees in Gannon university ?
+- What will the semester fees be If I appear on the merit list?
+- What is the semester fees of the students who are on the merit list ?
+- What will my semester fees be after appearing on the merit list ?
+- How much will my semester fees be if I achieve appearing on the merit list ?
+- After appearing on the merit list, what will my semester fees be ?
+- What is the fee structure of MBA ?
+- How much is the fees of computer science ?
+- What is the amount of fee submission for studying gcis?
+- How much fees will one have to pay in order to study Masters ?
+- What is the information regarding the fees of bachelor's ?
+- What are the complete fee structure of ba ?
+- I need information on the complete fee structure of ece.
+- I need to know the total fee structure of masters.
+- What are details with regards to the total fee structure of gannon ?
+- Is there any information on the complete fee structure of gannon university ?
+
+## intent:offered_programs
+- What fields of Engineering is offered by Gannon university ?
+- Engineering in Gannon university is divided into which different offered fields ?
+- Which fields of Engineering does Gannon university offer to its students ?
+- What are the sections of Engineering that are offered by Gannon university ?
+- What sections of Engineering does Gannon university offer ?
+- which degree programs are being offered for undergraduate students
+- which degree programs are being offered for graduate students
+- which degree programs are being offered for post graduates
+- which degree programs are being offered for phd
+- what are the programs offered in computer science?
+- tell me about cis programs
+- cis ofered programs
+- cis programs in university
+- gannon cicafeterias programs
+- what programs in cis
+- programs in cis at gannon university
+- programs in cis
+- university cis programs
+- cis programs
+- cis
+
+## intent:accomodation
+- is there accomodation available
+- housing for girls
+- housing facility
+- oncampus accomodation
+- incampus housing
+- living on campus
+- information about housing
+
+## intent:foundations
+- What are the foundation courses ?
+- What are the details about the foundation courses ?
+- What are the updates in regards to the foundation courses ?
+- Is there any information available about the foundation courses ?
+- what is foundation?
+
+## intent:classes
+- inperson  class ??
+- I need information regarding the inperson classes.
+- What are the details about the classes held in the online?
+- What are the updates on the classes that are held in the online ?
+- What are the updates about the inperson classes ?
+- Has any information been provided about the inperson classes ?
+- What is the duration of reschedule class?
+- How long can a class be scheduled for in case of necessity ?
+- If necessary, will the class be scheduled for a longer period ?
+- How long does one period/classroom-teaching hour lasts for ?
+- How much time is one period of ?
+- how much time is a class?
+- what is timing of class?
+- duration of a period
+- duration of a class
+- duration of a single class
+
+## intent:sports
+- What is the procedure for taking admission in Gannon univeristy on the basis of sports ?
+- What procedure should be followed for taking admission in -Gannon univeristy on the basis of sports ?
+- What is the process one should proceed for taking admission in in Gannon univeristy on the basis of sports ?
+- If a student wants to take admission in in Gannon univeristy on the basis of sports, what procedure is recommended for him ?
+- If a student wants to take admission in in Gannon univeristy on the basis of sports, what would be the process he/she will have to go through ?
+- can I apply on sports basis
+
+## intent:self_finance
+- What is the information regarding the Self-Finance seat ?
+- What are the details about the Self-Finance seat ?
+- What are the updates in regards to the Self-Finance seat ?
+- Is there any information available about the Self-Finance seat ?
+- I need guidance in regards to the Self-Finance seat.
+
+## intent:academic_period
+- When does the academic year of the university begin and end ?
+- What schedule of the academic year does the university follow ?
+- When does the academic year of the university start?
+- When does the academic year ends?
+
+## intent:GPA Warning
+- What is minimum CGPA requirement to avoid academic warning?
+- how much gpa is needed to avoid warning?
+- how much gpa i need to avoid warning?
+- can i avoid warning if i have gpa above 2.
+- can i avoid warning if i have gpa below 2.
+
+## intent:Fyp_Registration
+- can i take fyp if my credit hours are not complete
+- how many credit hours are needed to opt fyp
+- can i take fyp on 3 credit hours
+- will i be able to take fyp on 3 credit hours
+- minimum credit hours needed to take fyp
+- Are there any necessary requirements for the Final Year Project (FYP) ?
+- What are the necessary requirements for the registration of Final Year Project (FYP) ?
+- What is the warning count to register for Final Year Project?
+- Is it necessary to pass all courses to register for Final Year Project?
+- requirements of fyp
+- eligibilty of fyp
+- fyp policy
+- fyp criteria
+
+## intent:Transfer
+- Under which circumstances will the transfer not be considered ?
+- In which case will the transfer request not be accepted ?
+- can i transfer my admission to other university?
+- how can i transfer my credit hours to other university?
+- can i transfer my credit hours to other university?
+- how can i transfer my credit hours to foriegn university?
+- What is the procedure for admission at  for students who have earned credits in other institutions ?
+- What procedure do the students go through who have earned credit from other insitutions and aspire to get admission in  ?
+- What if student earn credits at other institution under formally accredited programs?
+- Explain your policy for credits earned through different institution?
+- What is the information regarding transfer ?
+- What are the details about transfer ?
+- What are the updates in regards to the transfer ?
+- Is there any information available about the transfer ?
+- How will the transfer take place ?
+
+## intent:I-20
+- how many days it will take to get  I-20
+- how should i know  I-20  status
+- what is  I-20
+- how many days it will take to get  I-20 ?
+- how should i know about  I-20 status
+- what happens when i withdraw admission?
+- how to get I-20
+- how i can details about  I-20
+- what is I-20
+- In how many days i can get I-20
+
+## intent:police
+- what is police number
+- how should i contact police
+- is there any gannon police and saftey
+- gannon police
+- how should i contact with cops
+
+## intent:jobs
+- does gannon have oncampus jobs?
+- how i should get oncampus.
+- what are requirements required to get job?
+- is there any chance to get oncampus job
+- gannon provides oncampus jobs
+- how should i know about the jobs
+- how should i apply for lab assistent?
+- how can get oncampus job
+- in which portal i can apply for job.
+
+## intent:credit_hour
+- what do you mean by credit hours
+- what is credit hour?
+- credit hour means?
+- meaning of credit hour?
+- how you define credit hour?
+- definition of credit hour?
+
+## intent:graduate
+- duration of graduation
+- how many credit hours are required to graduate
+- credit hours for graduation
+- how many credit hours are in bachelors degree for graduation
+- graduation period
+- maximum years to graduate
+
+## intent:Admission
+- What is the procedure of a readmission in an undergraduate program for former students?
+- What procedure do former students have to go through in order to take an admission in an undergraduate program ?
+- Does admission test is necessary for readmission in an undergraduate program?
+- Can a former student on disciplinary warning take readmission into university?
+- how former student can apply for admission
+- Can a former student who has been on disciplinary warning get a readmission ?
+- Is it possible for a former student to get a readmission eventhough he has been on a disciplinary warning ?
+- What happens if a student on disciplinary warning -wants to take readmission in university?
+- How many times can a former student who has been -on 3rd academic warning gain readmission ?
+- Can a student with 3 academic warnings take admission?
+- How many times a student is allowed to take admission after 3 academic warnings?
+
+## intent:semester_week
+- How many weeks is a regular semester of ?
+- How does the distribution of weeks occur in a regular semester ?
+- how many week are there in a semester
+- what is the duration of a semester
+- how big a semester is
+- how many weeks in semester
+- weeks in a semester
+- how many weeks in a semester
+
+## intent:summer_campus
+- Can a student study summer semester from another campus ?
+- Can a student study a course in another campus in summer?
+- How to apply for a summer course in another campus in summer?
+- can a student take course in another campus
+- is it allowed to take course in another campus in summer
+- i am from peshawar campus can i take summer course in Pennsylvania
+
+## intent:summer_withdraw
+- When is it allowed for a student to withdraw from a summer course ?
+- When can a student withdraw from a summer course ?
+- Can a student withdraw from a course in summer?
+- When can a student withdraw from a course in summer?
+- can we withdraw from a summer course
+- is it allowed to withdraw from summer course
+- can i withdraw from summer course
+- can one withdraw from summer course
+- withdraw from summer course
+
+## intent:new_summer
+- Can a student register for a new course in the summer semester ?
+- Is there an exception to the rule that a student cannot register for a new course of the summer semester ?
+- Can we register for a new course in summers?
+- How to register for a new course in summer?
+- can a student register new course in summer
+- can we opt new course in summer semester
+- new course in summer
+- new course in summer semester
+
+## intent:elgibilty
+- what is the elgibilty to apply gannon university?
+- elgibilty for getting admission in gannon
+- what is the elgilbilty to get international admit
+- 
+
+## intent:freezing_semester
+- How many semesters are allowed to freeze?
+- What is the procedure for freezing a semester ?
+- Up to how many semesters can a student freeze his admission for ?
+- freeze a semester
+- can i freeze a semester
+- freezing semester policy
+- semester freeze
+
+## intent:credits
+- how many credits to complete masters
+- credits gcis in gannon
+- how can i check credits
+- cis credits
+- ece credits
+- how many credits in gannon university
+
+## intent:oncampus job
+- how can get oncampus job
+- does gannon have oncampus jobs
+- what is mean oncampus jobs
+- does gannon have GA
+- gannon provide oncampus job
+- does this university have facility of oncampus jobs
+
+## intent:spring_admission
+- Spring admission?
+- I need instructions regarding the spring admissions?
+- What are the updates about the spring admissions ?
+- I need information of the spring admissions ?
+- What is the information announced about the spring admissions ?
+- What are the details of the spring admissions ?
+- admission in spring semester
+- what about spring semester admission
+
+## intent:withdraw_course
+- What is the procedure for the application of a withdrawal ?
+- Who should sign the application of the student's withdrawal ?
+- How a student can request for withdrawal from a course?
+- Do applications for withdrawal need to be signed by parents or guardians?
+- withdraw a course
+- withdraw course
+- course withdraw
+- withdrawal of a course
+- withdraw
+- Which days in the semester is the deadline of withdrawal from a course ?
+- What is the deadline of withdrawal from a course ?
+- What is deadline to withdraw from a course?
+- Is there any deadline to withdraw from a course?
+
+## intent:social_events
+- which events take place in Gannon
+- which events take place at Gannon
+- events in Gannon
+- programming events at Gannon
+- social events at Gannon
+- concert at Gannon
+
+## intent:contacts
+- how to contact Gannon
+- contact details
+- how to connect with Gannon
+- how to reach Gannon
+- Gannon contact number
+- Gannon contact
+
+## intent:Gannon_address
+- where is Gannon Pennsylvania
+- where is Gannon  located
+- Gannon  address
+- Gannon Pennsylvania location
+- Gannon Pennsylvania address
+- location of Gannon
+- location of Gannon Pennsylvania
+
+## intent:library
+- is library available at Gannon
+- library at Gannon
+- library service at Gannon
+- library in Gannon
+
+## intent:cafeteria
+- is cafeteria available at Gannon
+- cafeteria
+- cafe
+- restaurant
+- canteen
+
+## intent:auditorium
+- is auditorium available at Gannon
+- auditorium in Gannon
+- auditorium
+
+## intent:best_campus
+- which is best campus
+- which campus is better
+- best campus
+- best campus of Gannon
+
+## intent:academic_office
+- where is academic office
+- where is academic office located
+- academic office
+- office of academics
+
+## intent:director_office
+- where is director office
+- where is director office located
+- director office
+- office of director
+
+## intent:chair_office
+- where is chair office
+- where is chair office located
+- chair office
+- office of chair office
+
+## intent:intake
+- how many intakes does have.
+- how many does gannon provides?
+- does gannon have summer intake
+- what are the does gannon offering
+
+## intent:admin_office
+- where is admin office
+- where is admin office located
+- student admin office
+- office of admin
+
+## intent:career_office
+- where is career service office
+- where is career service office located
+- student career service office
+- office of career service
+- where is cso
+- where is cso located
+- cso location
+- office of cso
+
+## intent:dean
+- who is dean of university
+- who is chancellor of Gannon
+- who is deen of Gannon
+- who is your dean
+- who is Gannon dean
+- dean of Gannon
+
+## intent:GCIS
+- what are the programs offered in computer science?
+- tell me about gcis programs
+- gcis ofered programs
+- gcis programs in university
+- gannon gcis programs
+- what programs in gcis
+- what programs in cis
+- programs in gcis at gannon university
+- programs in gcis
+- university gcis programs
+- gcis programs
+- gcis
+
+## intent:STEM
+- does computer science have stem program
+- program stem computer science
+- cis have stem
+- does cis have stem
+- stem program for cis
+- computer science stem
+- stem program avaliable
+- cyber security have stem
+- It have stem
+- software engineering have stem
+- Data science had stem
+
+## intent:masters
+- how do i apply for a master's program
+- what is the total cost for a master's program in computer and information science at gannon
+- what is the total cost of a master's program in business analytics
+- what is the total cost of a master's program in business administration
+- what are the master programs in gannon university
+
+## intent:bachelors
+- what are bachelor's programs in university
+- how do i apply for bachelor's program
+- how much fee for the bachelor's program
+- which courses offering in gannon for bachelor's
+
+## intent:bestcampus
+- does gannon have best campus
+- where does campus located
+- how to know about campus
+- how many buildings does gannon have
+- gannon campus
+
+## intent:foodcourt
+- does gannon have foodcourt
+- where can i find court
+- foodccourt
+- gannon providing foodcourt
+- 
+
+## intent:Cpt
+- after how many semester i can apply for cpt
+- cpt meaning
+- what is cpt
+- how should i apply for cpt
+- how many days cpt is valid
+
+## intent:hospital
+- does gannon have hospital facility?
+- how should i contact gannon hospital?
+- how to find gannon hospital
+- how to book an appointment for gannon hospital.
+- where is gannon hospital
+- should i book appointment for gannon hospital.

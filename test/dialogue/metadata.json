@@ -1,0 +1,219 @@
+{
+  "action_fingerprints": {
+    "action_listen": {
+      "slots": []
+    },
+    "utter_Rechecking": {
+      "slots": []
+    },
+    "utter_events": {
+      "slots": []
+    },
+    "utter_students": {
+      "slots": []
+    },
+    "utter_fyp": {
+      "slots": []
+    },
+    "utter_summer": {
+      "slots": []
+    },
+    "utter_academic": {
+      "slots": []
+    },
+    "utter_withdraw": {
+      "slots": []
+    },
+    "utter_job": {
+      "slots": []
+    },
+    "utter_gpa": {
+      "slots": []
+    },
+    "utter_sports": {
+      "slots": []
+    },
+    "utter_medal": {
+      "slots": []
+    },
+    "utter_admins": {
+      "slots": []
+    },
+    "utter_nts": {
+      "slots": []
+    },
+    "utter_iamabot": {
+      "slots": []
+    },
+    "utter_period": {
+      "slots": []
+    },
+    "utter_auditorium": {
+      "slots": []
+    },
+    "utter_sample": {
+      "slots": []
+    },
+    "utter_campus": {
+      "slots": []
+    },
+    "utter_library": {
+      "slots": []
+    },
+    "utter_semester": {
+      "slots": []
+    },
+    "utter_schedule": {
+      "slots": []
+    },
+    "utter_nat": {
+      "slots": []
+    },
+    "utter_class": {
+      "slots": []
+    },
+    "utter_happy": {
+      "slots": []
+    },
+    "utter_director": {
+      "slots": []
+    },
+    "utter_mosque": {
+      "slots": []
+    },
+    "utter_gpai": {
+      "slots": []
+    },
+    "utter_hod": {
+      "slots": []
+    },
+    "utter_graduate": {
+      "slots": []
+    },
+    "utter_khi": {
+      "slots": []
+    },
+    "utter_self": {
+      "slots": []
+    },
+    "utter_gpaw": {
+      "slots": []
+    },
+    "utter_goodbye": {
+      "slots": []
+    },
+    "utter_cafeteria": {
+      "slots": []
+    },
+    "utter_programs": {
+      "slots": []
+    },
+    "utter_deen": {
+      "slots": []
+    },
+    "utter_fsd": {
+      "slots": []
+    },
+    "utter_admin": {
+      "slots": []
+    },
+    "utter_domicile": {
+      "slots": []
+    },
+    "utter_evening": {
+      "slots": []
+    },
+    "utter_contacts": {
+      "slots": []
+    },
+    "utter_degree": {
+      "slots": []
+    },
+    "utter_gannonuni": {
+      "slots": []
+    },
+    "utter_former": {
+      "slots": []
+    },
+    "utter_scholar": {
+      "slots": []
+    },
+    "utter_hostel": {
+      "slots": []
+    },
+    "utter_spring": {
+      "slots": []
+    },
+    "utter_fee": {
+      "slots": []
+    },
+    "utter_tests": {
+      "slots": []
+    },
+    "utter_pattern": {
+      "slots": []
+    },
+    "utter_summer_courses": {
+      "slots": []
+    },
+    "utter_bestcampus": {
+      "slots": []
+    },
+    "utter_pesh": {
+      "slots": []
+    },
+    "utter_aggregate": {
+      "slots": []
+    },
+    "utter_awaited": {
+      "slots": []
+    },
+    "utter_Warning": {
+      "slots": []
+    },
+    "utter_new": {
+      "slots": []
+    },
+    "utter_headquarter": {
+      "slots": []
+    },
+    "utter_recruit": {
+      "slots": []
+    },
+    "utter_isb": {
+      "slots": []
+    },
+    "utter_lhr": {
+      "slots": []
+    },
+    "utter_career": {
+      "slots": []
+    },
+    "utter_Transfer": {
+      "slots": []
+    },
+    "utter_apply": {
+      "slots": []
+    }
+  },
+  "python": "3.6.8",
+  "max_histories": [
+    5,
+    null,
+    5,
+    2,
+    5
+  ],
+  "ensemble_name": "rasa_core.policies.ensemble.SimplePolicyEnsemble",
+  "policy_names": [
+    "rasa_core.policies.keras_policy.KerasPolicy",
+    "rasa_core.policies.fallback.FallbackPolicy",
+    "rasa_core.policies.memoization.MemoizationPolicy",
+    "rasa_core.policies.form_policy.FormPolicy",
+    "rasa_core.policies.mapping_policy.MappingPolicy"
+  ],
+  "trained_at": "20220929-144858",
+  "rasa_core": "0.14.5",
+  "tensorflow": "1.13.2",
+  "sklearn": "0.20.4"
+}

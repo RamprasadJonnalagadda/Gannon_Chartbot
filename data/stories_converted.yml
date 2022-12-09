@@ -1,0 +1,260 @@
+version: "2.0"
+stories:
+- story: happy path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: mood_great
+  - action: utter_happy
+- story: sad path 1
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: mood_unhappy
+  - action: utter_cheer_up
+  - action: utter_did_that_help
+  - intent: affirm
+  - action: utter_happy
+- story: sad path 2
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: mood_unhappy
+  - action: utter_cheer_up
+  - action: utter_did_that_help
+  - intent: deny
+  - action: utter_goodbye
+- story: scholarship
+  steps:
+  - intent: scholarship
+  - action: utter_scholarship
+- story: graduate
+  steps:
+  - intent: graduate
+  - action: utter_graduate
+- story: admission schedules
+  steps:
+  - intent: admission_schedule
+  - action: utter_schedule
+- story: summer_courses
+  steps:
+  - intent: summer_courses
+  - action: utter_summer_courses
+- story: why gannon
+  steps:
+  - intent: gannon
+  - action: utter_gannon
+- story: social events at gannon
+  steps:
+  - intent: social_events
+  - action: utter_events
+- story: research_papers
+  steps:
+  - intent: research_papers
+  - action: utter_research_papers
+- story: eligibility
+  steps:
+  - intent: eligibility
+  - action: utter_eligibility
+- story: hospital
+  steps:
+  - intent: hospital
+  - action: utter_hospital
+- story: subject
+  steps:
+  - intent: subject
+  - action: utter_subject
+- story: police
+  steps:
+  - intent: police
+  - action: utter_police
+- story: tests conducted
+  steps:
+  - intent: tests_conducted
+  - action: utter_tests
+- story: apply
+  steps:
+  - intent: apply
+  - action: utter_apply
+- story: fee
+  steps:
+  - intent: fee
+  - action: utter_fee
+- story: offered programs
+  steps:
+  - intent: offered_programs
+  - action: utter_programs
+- story: accomodation
+  steps:
+  - intent: accomodation
+  - action: utter_accomodation
+- story: test pattern
+  steps:
+  - intent: test_pattern
+  - action: utter_pattern
+- story: foundations
+  steps:
+  - intent: foundations
+  - action: utter_foundations
+- story: sports seats
+  steps:
+  - intent: sports_seats
+  - action: utter_sports
+- story: self finance
+  steps:
+  - intent: self_finance
+  - action: utter_self_finance
+- story: gym
+  steps:
+  - intent: gym
+  - action: utter_gym
+- story: academic period
+  steps:
+  - intent: academic_period
+  - action: utter_academic_period
+- story: final_project
+  steps:
+  - intent: final_project
+  - action: utter_final_project
+- story: Transfer
+  steps:
+  - intent: Transfer
+  - action: utter_Transfer
+- story: bachelors
+  steps:
+  - intent: bachelors
+  - action: utter_bachelors
+- story: I-20
+  steps:
+  - intent: I-20
+  - action: utter_I-20
+- story: gpa
+  steps:
+  - intent: gpa
+  - action: utter_gpa
+- story: credit hour
+  steps:
+  - intent: credit_hour
+  - action: utter_credit
+- story: elgibilty
+  steps:
+  - intent: elgibilty
+  - action: utter_elgibilty
+- story: oncampus_jobs
+  steps:
+  - intent: oncampus_jobs
+  - action: utter_oncampus_jobs
+- story: withdraw
+  steps:
+  - intent: withdraw
+  - action: utter_withdraw
+- story: gpa
+  steps:
+  - intent: gpa
+  - action: utter_gpa
+- story: freezing semester
+  steps:
+  - intent: freezing_semester
+  - action: utter_freezing
+- story: hospital
+  steps:
+  - intent: hospital
+  - action: utter_hospital
+- story: degree duration
+  steps:
+  - intent: degree_duration
+  - action: utter_degree
+- story: withdraw course
+  steps:
+  - intent: withdraw_course
+  - action: utter_withdraw
+- story: credits
+  steps:
+  - intent: credits
+  - action: utter_credits
+- story: career_office
+  steps:
+  - intent: career_office
+  - action: utter_career
+- story: dean
+  steps:
+  - intent: dean
+  - action: utter_dean
+- story: isa
+  steps:
+  - intent: isa
+  - action: utter_isa
+- story: foodcourt
+  steps:
+  - intent: foodcourt
+  - action: utter_foodcourt
+- story: opt
+  steps:
+  - intent: opt
+  - action: utter_opt
+- story: cpt
+  steps:
+  - intent: cpt
+  - action: utter_cpt
+- story: gannon
+  steps:
+  - intent: gannon
+  - action: utter_gannon
+- story: library
+  steps:
+  - intent: library
+  - action: utter_library
+- story: cafeteria
+  steps:
+  - intent: cafeteria
+  - action: utter_cafeteria
+- story: chairperson
+  steps:
+  - intent: chairperson
+  - action: utter_chairperson
+- story: auditorium
+  steps:
+  - intent: auditorium
+  - action: utter_auditorium
+- story: bast campus
+  steps:
+  - intent: best_campus
+  - action: utter_bestcampus
+- story: academic office
+  steps:
+  - intent: academic_office
+  - action: utter_academic
+  - action: utter_students
+- story: director office
+  steps:
+  - intent: director_office
+  - action: utter_director
+- story: contacts
+  steps:
+  - intent: contacts
+  - action: utter_contacts
+- story: goodbye
+  steps:
+  - intent: goodbye
+  - action: utter_goodbye
+- story: bot_challenge
+  steps:
+  - intent: bot_challenge
+  - action: utter_iamabot
+- story: GCIS
+  steps:
+  - intent: GCIS
+  - action: utter_GCIS
+- story: masters
+  steps:
+  - intent: masters
+  - action: utter_masters
+- story: bachelors
+  steps:
+  - intent: bachelors
+  - action: utter_bachelors
+- story: cgpa
+  steps:
+  - intent: cgpa
+  - action: utter_cgpa
+

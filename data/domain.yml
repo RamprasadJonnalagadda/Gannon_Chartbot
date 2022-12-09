@@ -1,0 +1,367 @@
+version: "2.0"
+
+intents:
+  - affirm
+  - greet
+  - goodbye
+  - deny
+  - mood_great
+  - mood_unhappy
+  - bot_challenge
+  - scholarship
+  - gpa_warning
+  - admission_schedule
+  - research_papers
+  - admission
+  - courses
+  - foundations
+  - gannon
+  - Ielts
+  - social_events
+  - tests_conducted
+  - apply
+  - fee
+  - offered_programs
+  - accomodation
+  - test_pattern
+  - clubs
+  - recreation_center
+  - sports_seats
+  - police
+  - saefty
+  - academic_period
+  - intakes
+  - course_Registration
+  - Transfer
+  - gpa
+  - credit_hour
+  - Admission
+  - summer_campus
+  - summer_withdraw
+  - GCIS
+  - improve_gpa
+  - freezing_semester
+  - credits
+  - degree_duration
+  - withdraw_course
+  - snow
+  - hospital
+  - summer_courses
+  - career_office
+  - dean
+  - library
+  - cafeteria
+  - auditorium
+  - best_campus
+  - academic_office
+  - students_affair
+  - cashier_office
+  - director_office
+  - contacts
+  - gannon_address
+  - graduation
+  - CIS
+  - jobs
+  - elgibilty
+  - final_project
+  - withdraw
+  - subject
+  - gym
+  - isa
+  - chairperson
+  - bachelors
+  - I-20
+  - masters
+  - cpt
+  - graduate
+  - eligibility
+  - foodcourt
+  - oncampus_jobs
+  - opt
+  - cgpa
+  - self_finance
+
+actions:
+  - utter_greet
+  - utter_cheer_up
+  - utter_did_that_help
+  - utter_happy
+  - utter_goodbye
+  - utter_iamabot
+  - utter_scholarship
+  - utter_summer
+  - utter_events
+  - utter_schedule
+  - utter_job
+  - utter_gannon
+  - utter_police
+  - utter_saefty
+  - utter_summer_courses
+  - utter_admins
+  - utter_GCIS
+  - utter_ielts
+  - utter_graduate
+  - utter_tests
+  - utter_apply
+  - utter_programs
+  - utter_accomodation
+  - utter_pattern
+  - utter_negative
+  - utter_evening
+  - utter_sports
+  - utter_fee
+  - utter_hospital
+  - utter_period
+  - utter_intakes
+  - utter_snow
+  - utter_Transfer
+  - utter_gpa
+  - utter_credit
+  - utter_class
+  - utter_semester
+  - utter_campus
+  - utter_sum
+  - utter_new
+  - utter_improve
+  - utter_freezing
+  - utter_research_papers
+  - utter_degree
+  - utter_spring
+  - utter_withdraw
+  - utter_courses
+  - utter_career
+  - utter_dean
+  - utter_library
+  - utter_cafeteria
+  - utter_foundations
+  - utter_auditorium
+  - utter_bestcampus
+  - utter_academic
+  - utter_jobs
+  - utter_students
+  - utter_director
+  - utter_contacts
+  - utter_CIS
+  - utter_elgibilty
+  - utter_opt
+  - utter_cpt
+  - utter_gym
+  - utter_academic_period
+  - utter_offered programs
+  - utter_self_finance
+  - utter_final_project
+  - utter_career_office
+  - utter_subject
+  - utter_isa
+  - utter_chairperson
+  - utter_bachelors
+  - utter_I-20
+  - utter_gpawarning
+  - utter_masters
+  - utter_eligibility
+  - utter_foodcourt
+  - utter_oncampus_jobs
+  - utter_cgpa
+  - utter_bot_challenge
+
+responses:
+  utter_greet:
+  - text: "Hey! How are you?"
+
+  utter_cheer_up:
+  - text: "Here is something to cheer you up:"
+
+  utter_did_that_help:
+  - text: "Did that help you?"
+
+  utter_happy:
+  - text: "Great, carry on!"
+
+  utter_goodbye:
+  - text: "Bye"
+
+  utter_iamabot:
+  - text: "I am a bot, powered by gannon university."
+
+  utter_scholarship:
+  - text:  " scholarship available please click below link for more details <br><br> <a https://www.gannon.edu/financial-aid/types-of-financial-aid/gannon-scholarships-and-awards/ a>"
+
+  utter_intakes:
+  - text: " Admission are opened  in jan/May/August. To know more details please follow below link <br><br> <a https://www.gannon.edu/admissions/ a>"
+
+  utter_oncampus_jobs:
+  - text: "yes oncompus jobs are available please vist work study <br><br> <a https://www.gannon.edu/financial-aid/types-of-financial-aid/work-study/ a>"
+
+  utter_eligibilty:
+  - text: "Minimum criteria to apply is 65%. Furthur eligibility criteria could be reffered at <br><br> <a https://www.gannon.edu/Student-Life/Student-Success-Center/Student-Support-Services/Eligibility/ a>"
+
+  utter_test:
+  - text: "IELTS,DUOLINGO,TOEFL,GRE,SAT tests are accepted."
+
+  utter_apply:
+  - text: "To apply at gannon  follow  below link <br><br> <a https://www.gannon.edu/admissions/undergraduate-admissions/apply-to-gannon/ a>"
+
+  utter_fee:
+  - text: "Fee structure can be viewed at <br><br> <a href= 'https://www.gannon.edu/financial-aid/tuition-and-fees/graduate-tuition-and-fees/#:~:text=Please%20refer%20to%20www.gannon.edu%2Ffees%20for%20a%20complete,listing%20of%20all%20course%20and%20program%20fees.target='_blank'> click here for support </a>"
+
+  utter_programs:
+  - text: "By clicking below link <br><br> <a href= 'https://www.gannon.edu/academic-offerings/</ a>."
+
+  utter_accomodation:
+  - text: "on campus accomodation is available. please follow the below link for further details <a 'https://www.gannon.edu/student-life/living-on-campus/applying-for-housing/ a>."
+
+  utter_police:
+  - text: "gannon police and saefty Campus Police and Safety. Phone: 814-871-7690Toll Free: 1-800-426-6668"
+
+  utter_foundations:
+  - text: "Yes, There will be foundations if you change  major. for details <br><br> <a https://www.gannon.edu/academic-offerings/online-programs/online-mba/course-descriptions/ </a>."
+
+  utter_evening:
+  - text: "No evening classes are offered at gannon ."
+
+  utter_sports:
+  - text: "yes sports seats are available at gannon please click below link <br><br> <a https://www.gannon.edu/student-life/recreation-and-wellness-center/ </a>."
+
+  utter_self_finance:
+  - text: "No self-finance seats are offered at gannon ."
+
+  utter_gym:
+  - text: "gym at recreation center <br><br> <a https://www.gannon.edu/student-life/recreation-and-wellness-center/ </a>."
+
+  utter_academic_period:
+  - text: "Academic period fall starts from August and Ends in december,spring starts from january and ends in may"
+
+  utter_gpa:
+  - text: " If GPA is below 3.0 you will get warning email"
+
+  utter_final_project:
+  - text: "Final Year Project (FYP) is offered in the last semister"
+
+  utter_Transfer:
+  - text: "regarding transfer request contact global support <br><br> <a https://www.gannon.edu/admissions/international-admissions/global-support-and-student-engagement/ a>"
+
+  utter_cgpa:
+  - text: "CGPA is calculated as the weighted average for all semesters cumulatively using grade points of all the courses taken by a student."
+
+  utter_credit:
+  - text: "Each subject have 3 credits must take 9 credits per semester"
+  utter_class:
+  - text: " Duration of classes is usually 1.5 hour (2 classes/week) for masters."
+
+  utter_semester:
+  - text: "A semester comprises of 16 weeks including Mid terms and excluding final exams."
+
+  utter_campus:
+  - text: "Yes, Students are allowed to register campus programs and events."
+
+  utter_withdraw:
+  - text: "A student can withdraw from a course before the first day of classes."
+
+  utter_summer_courses:
+  - text: "A student can register summer course <br><br> <a https://www.gannon.edu/academic-offerings/special-programs/summer-sessions/ </a>."
+
+  utter_new:
+  - text: "A student cannot register for a new course in the  middle of the semester."
+
+  utter_improve:
+  - text: "A student may repeat any course to improve CGPA."
+
+  utter_freezing:
+  - text: "A student may request freezing of his/her admission for up to 2 semesters along with prescribed Semester Freeze charges."
+
+  utter_credits:
+  - text: "To know about gannon credit system please click below link  <br><br> <a https://www.gannon.edu/academic-offerings/humanities-education-and-social-sciences/graduate/curriculum-and-instruction/ </a>."
+
+  utter_degree:
+  - text: "To know details please click below link <br><br> <a https://collegedunia.com/usa/college/1283-gannon-university-erie </a>."
+
+  utter_spring:
+  - text: " spring admissions available at gannon university ."
+
+  utter_gannon:
+  - text: "gannon is the best university for computer science in US. It was founded as a Federally Chartered University in July 2000, the National University of Computer and Emerging Sciences is a premier University of US. gannon is famous for quality education and impact of its students in the development of local software and other industries. The university has five modern campuses at Pennsylvania, Pennsylvania, Pennsylvania, Peshawar, and Chiniot-Faisalabad. These campuses deliver world-class educational environment and entertaining facilities to about 9,000 students, around one quarter are female."
+  - text: "Founded as a Federally Chartered University in July 2000, the National University of Computer and Emerging Sciences is a premiere University of US, renowned for quality and impact of its students in the development of local software and other industries. The university has five modern campuses at Pennsylvania, Pennsylvania, Pennsylvania, Peshawar and Chiniot-Faisalabad. These campuses provide world class educational environment and recreational facilities to about over 11,000 students, around one quarter are female and over 500 skilled faculty members."
+  - text: "Gannon University is a private institution that was founded in 1925. It has a total undergraduate enrollment of 3,165 (fall 2021), its setting is city, and the campus size is 63 acres. It utilizes a semester-based academic calendar. Gannon University's ranking in the 2022-2023 edition of Best Colleges is National Universities, #263."
+
+  utter_subject:
+  - text: "subject  withdrawal from the  course must be within the month after program starts."
+
+  utter_job:
+  - text: "Job rate of gannon  is almost 100% please below link <br><br> <a https://www.gannon.edu/employment-at-gannon/ </a>"
+
+  utter_career_office:
+  - text: "For Career support please follow the link <br><br> <a'https://www.bing.com/search?q=gannon+career+support&cvid=a6b3ecef4332470fb849e98d1aaf0e80&aqs=edge..69i57j69i64.17425j0j1&pglt=297&FORM=ANNTA1&PC=SMTS </a>."
+
+  utter_dean:
+  - text: "Karinna M. Vernaza is the dean of Engineering & Business.To know complete details <a https://www.gannon.edu/academic-offerings/engineering-and-business/dean-s-office/ </a>"
+
+  utter_isa:
+  - text: "please follow below link <a https://www.collegefactual.com/colleges/gannon-university/student-life/international/ </a>"
+
+  utter_cpt:
+  - text: "gannon provides CPT after completing require credits <a file:///C:/Users/nares/Downloads/CPTEmployerResource.pdf </a>"
+
+  utter_opt:
+  - text: "After completing degree student can able to  apply for opt please vist for details<a https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/optional-practical-training-opt-for-f-1-students </a>"
+
+  utter_foodcourt:
+  - text: "metz is food court you see by clicking this link <a https://www.metzgannon.com/ </a>."
+
+  utter_library:
+  - text: "Library facility is available at gannon. <a https://library.gannon.edu/homepage </a>"
+
+  utter_cafeteria:
+  - text: "Cafeteria facility is available in gannon campus"
+
+  utte_programs:
+  - text: "To know about Academic courses please click on the below link <a https://www.gannon.edu/academic-offerings/ </a>."
+
+  utter_auditorium:
+  - text: "auditorium available at gannon university"
+
+  utter_bestcampus:
+  - text: "gannon have a good campus you can visit <a https://gannon.edu/ </a>."
+
+  utter_academic:
+  - text: "Academic office located at global support building."
+
+  utter_admin:
+  - text: "You can visit Admin office at global support.<a https://www.gannon.edu/admissions/international-admissions/global-support-and-student-engagement/ </a>"
+
+  utter_students:
+  - text: "Student's affair department is located in global support"
+
+  utter_chairperson:
+  - text: "chair person office is located zurn 3rd floor. "
+
+  utter_director:
+  - text: "Director office is located at zurn 3rd floor."
+
+  utter_contacts:
+  - text: "You can contact gannon  at (814) 871-7000"
+
+  utter_graduate:
+  - text: "Maximum period allowed for graduation is 2years with 30 credit hours for master degree"
+
+  utter_GCIS:
+    - text: " if you open the below link you can find the programs <a https://www.gannon.edu/academic-offerings/ </a>"
+
+  utter_masters:
+    - text: "please click below link for support <a https://www.gannon.edu/academic-offerings/ </a>"
+
+  utter_bachelors:
+    - text: "please click below link for support <a https://www.gannon.edu/academic-offerings/ </a>"
+
+  utter_I-20:
+    - text:  "Please visit https://update.gannon.edu/Information/GlobalStudents"
+
+  utter_research_papers:
+    - text: "please click below link <a https://library.gannon.edu/WRC </a>"
+
+  utter:
+    - text: "yes"
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
+
